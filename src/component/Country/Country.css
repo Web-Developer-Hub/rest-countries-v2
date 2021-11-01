@@ -1,0 +1,8 @@
+.Country {
+  background-color: rgb(243, 243, 243);
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  border: 1px solid rgb(201, 201, 201);
+  box-shadow: 5px 5px 30px 5px rgb(207, 207, 207);
+}
